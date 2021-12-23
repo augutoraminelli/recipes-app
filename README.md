@@ -1,1 +1,1 @@
-#Application: recipes-app-rust.vercel.app
+#Application: https://recipes-app-rust.vercel.app/
