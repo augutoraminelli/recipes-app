@@ -13,6 +13,13 @@
 * CSS
 * GitHuoram:
 
+## Desafio
+
+Esse projeto de estudos foi desenvolvido desde o design até o deploy, realizado por 5 desenvolvedores.
+Participei do projeto como um todo, colaborando com código e ajudando na organização das tarefas.
+
+## As principais tarefas do projeto foram:
+
 * Desenvolver Front-end utilizando framework React com Hooks, e utilizando o contex API para gerenciar estado.
 * Desenvolvedor Front-end utilizando HTML/CSS?JavaScript, responsivo.
 * Consumir API a partir de um link de receitas.
