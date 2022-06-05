@@ -6,11 +6,12 @@
 
 ## Link Application: https://recipes-app-rust.vercel.app/
 
-### ApWeb / React / Front-end Developer
+### App Web / React / Front-end Developer
 
 ## Stack do projeto
 
-* React 
+* React
+* Contex Api
 * JavaScript
 * HTML
 * CSS
