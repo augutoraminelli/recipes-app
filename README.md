@@ -14,7 +14,7 @@
 * JavaScript
 * HTML
 * CSS
-* GitHuoram:
+* GitHub:
 
 ## Desafio
 
