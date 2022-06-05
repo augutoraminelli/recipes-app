@@ -35,3 +35,6 @@ Participei do projeto como um todo, colaborando com código e ajudando na organi
 
 O objetivo do projeto Front-end, se dava em construir um App de Receitas, que possibilite um usuário navegar e escolher diferentes receitas de drinks e pratos, para personalizar ainda mais o apetite dos usuários e gerar uma grande experiência é possível explorar receitas de regiões diferentes, basta utilizar os filtros criados na aplicação e explorar sem moderação. Aproveite a navegação do aplicativo para criar suas receitas e tirá-las da tela, através dos checkbox, você consegue recriar as receitas passo a passo. No final gerencie os seus favoritas e compartilhe com seus amigos.
 
+## Metodologia Utilizada
+* SCRUM
+* KANBAN
